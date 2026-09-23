@@ -1,0 +1,15 @@
+{
+    "version": "1.2.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/Blackbuck-LABS/bbctl/releases/download/v1.2.0/bbctl_1.2.0_windows_x86_64.zip",
+            "bin": [
+                "bbctl.exe"
+            ],
+            "hash": "ec0849b0e53dcf86e132447c7d0ec78ec4dc8c24070c45b5305c5ad556eb50c3"
+        }
+    },
+    "homepage": "https://github.com/Blackbuck-LABS/bbctl",
+    "license": "Proprietary",
+    "description": "Gated EC2 access for Blackbuck — auditable, approval-driven, immutable logs"
+}
