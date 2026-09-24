@@ -1,12 +1,12 @@
 {
-    "version": "1.2.0",
+    "version": "1.2.1",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/Blackbuck-LABS/bbctl/releases/download/v1.2.0/bbctl_1.2.0_windows_x86_64.zip",
+            "url": "https://github.com/Blackbuck-LABS/bbctl/releases/download/v1.2.1/bbctl_1.2.1_windows_x86_64.zip",
             "bin": [
                 "bbctl.exe"
             ],
-            "hash": "ec0849b0e53dcf86e132447c7d0ec78ec4dc8c24070c45b5305c5ad556eb50c3"
+            "hash": "7a278f4bfc78b427caa6f71bbeec051ffdfb4039ecebf327539215d5144ef65d"
         }
     },
     "homepage": "https://github.com/Blackbuck-LABS/bbctl",
